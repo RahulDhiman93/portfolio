@@ -1,0 +1,32 @@
+.TopImage{
+	height: 450px;
+	width: 1375px;
+}
+
+.Name{
+	font-weight: bold;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 28%;
+    left: 50%;
+    font-weight: bold;
+    font-size: 70px;
+    transform: translate(-50%, -50%);
+}
+
+.IMGcentered {
+    position: absolute;
+    top: 72%;
+    left: 50%;
+    font-weight: bold;
+    font-size: 70px;
+    transform: translate(-50%, -50%);
+}
